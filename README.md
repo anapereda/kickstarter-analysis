@@ -5,7 +5,7 @@ In this analysis we are helping Louse launch a Kickstarter campaign based on the
 We first calculated the percentage fun of the campaign, and average donation. The new columns are included in the Excel document. We divided categories and subcategories to further explore the specific characteristics applicaple to client campaign. 
 
 This bar graph shows the distribution of campaing by parent category. The biggest number of campaigs is registere under the "Theater" parent category; there is a similar distribution of success, failed and cancelled in all categories.
-![Parent category outcome][/Users/anitapereda/Documents/Data Analytics boot camp/Excel- Crowd funding analysis/Parent Categories Outcome.png]
+![Parent category outcome](/Users/anitapereda/Documents/Data Analytics boot camp/Excel- Crowd funding analysis/Parent Categories Outcome.png)
 
 We then went ahead and further explore the distribution of theather, in the US. We used filters on the parent category theather, and the subcategory plays and country, US. More that half of the campaign were successful. 
 ![Play subcategory outcome distribution][/Users/anitapereda/Documents/Data Analytics boot camp/Excel- Crowd funding analysis/playsoutcomedistribution.png]
