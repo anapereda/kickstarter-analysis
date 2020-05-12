@@ -1,4 +1,4 @@
-# An Analysis of kicstarter campaign
+# An Analysis of Kicstarter Campaign
 
 In this analysis we are helping Louse launch a Kickstarter campaign based on the data of Kickstarter campaigns.
 
